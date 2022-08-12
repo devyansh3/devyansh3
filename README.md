@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [vGive- A Donor/charity management fundraising platform](https://vgive-ui.herokuapp.com/)
 
-- 🌱 I’m currently learning **web3 and its dependencies and new javascript frameworks**
+- 🌱 I’m currently learning **Machine Learning techniques to build optimized ML models using python modules**
 
-- 👯 I’m looking to collaborate on **intersting full stack web dev projects**
+- 👯 I’m looking to collaborate on **intersting full stack web dev projects that have AI and ML implementation to some extent**
 
 - 🤝 I’m looking for help with **Machine Learning in Javascript and using python for finance based tasks**
 
 - 👨‍💻 All of my projects are available at [https://devyansh3.github.io/sehgaldevyansh.github.io/](https://devyansh3.github.io/sehgaldevyansh.github.io/)
 
-- 💬 Ask me about **React, Node, SQL,UI/UX**
+- 💬 Ask me about **React, Node, SQL, UI/UX**
 
 - 📫 How to reach me **ds680@snu.edu.in**
 
