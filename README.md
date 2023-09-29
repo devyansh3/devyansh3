@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Data Engineer at [KPMG India](https://kpmg.com/in/en/home.html)
 
-- 🌱 I’m currently learning **Golang*
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **intersting full stack web dev projects that have AI and ML implementation to some extent**
 
