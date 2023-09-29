@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devyansh Sehgal</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Full Stack Dev || Data Engineer </h3>
 
 - 🔭 I’m currently working as a Data Engineering Intern at [KPMG India](https://kpmg.com/in/en/home.html)
 
