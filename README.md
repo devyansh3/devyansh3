@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as a Data Engineer at [KPMG India](https://kpmg.com/in/en/home.html)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Gen-AI applications for webApps with Langchain and RAG Models**
 
 - 👯 I’m looking to collaborate on **intersting full stack web dev projects that have AI and ML implementation to some extent**
 
 - 👨‍💻 All of my projects are available at [https://devyansh3.github.io/sehgaldevyansh.github.io/](https://devyansh3.github.io/sehgaldevyansh.github.io/)
 
-- 💬 Ask me about **React, Node, SQL, UI/UX, Python**
+- 💬 Ask me about **React, Node, SQL, UI/UX, Python, Cloud**
 
 - 📫 How to reach me **ds680@snu.edu.in**
 
