@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://devyansh3.github.io/sehgaldevyansh.github.io/](https://devyansh3.github.io/sehgaldevyansh.github.io/)
 
+- 💪 Check out my builds https://fylmyvisa.vercel.app/ https://ynot-next.vercel.app/ https://august-six.vercel.app/ https://papper-rabbit-xi.vercel.app/
+
 - 💬 Ask me about **React, Node, SQL, UI/UX, Python, Cloud**
 
 - 📫 How to reach me **ds680@snu.edu.in**
