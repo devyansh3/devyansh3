@@ -1,5 +1,3 @@
-
- I have experience in building and scaling tech startups in a limited time frame.
 <a href="https://daily.dev/devyanshsehgal"><img src="https://api.daily.dev/devcards/v2/SXmveHIxlLmVfxGP2fTIi.png?type=default&r=mm0" width="356" alt="Devyansh Sehgal's Dev Card"/></a>
 
 
